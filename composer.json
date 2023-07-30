@@ -1,0 +1,18 @@
+{
+    "name": "crude/reserve",
+    "description": "Package to reserve the name of org in packagist",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Crude\\Reserve\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "maciekpaprocki"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
